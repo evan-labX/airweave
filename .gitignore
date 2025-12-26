@@ -1,6 +1,4 @@
 # Environment files
-.env
-.env.*
 !.env.example
 .cursor/mcp.json
 
@@ -59,7 +57,6 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
-.env.local
 local_storage/
 local_scripts/
 
@@ -81,3 +78,4 @@ local_storage/
 monke/venv/
 logs/
 monke/.runs/
+config.bat
